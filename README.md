@@ -16,3 +16,7 @@ Adding Deployement steps
 
 Adding COntribution Steps
 Adding silly text
+
+###Copyright notice
+
+Copyright section
