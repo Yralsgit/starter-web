@@ -19,4 +19,4 @@ Adding silly text
 
 ###Copyright notice
 
-Copyright section
+Copyright section 2
