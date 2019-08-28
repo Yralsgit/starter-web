@@ -10,4 +10,9 @@ Adding Introduction text
 Adding Purpose text
 
 ## Deployment
+Adding Deployement steps
+
 ## How to contribute
+
+Adding COntribution Steps
+Adding silly text
