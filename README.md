@@ -7,5 +7,7 @@ This is a simple page
 Adding Introduction text
 
 ## Purpose
+Adding Purpose text
+
 ## Deployment
 ## How to contribute
