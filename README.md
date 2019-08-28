@@ -20,3 +20,7 @@ Adding silly text
 ###Copyright notice
 
 Copyright section 2
+
+##Forking
+
+Commiting to repo before merging the branch here
