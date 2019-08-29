@@ -5,7 +5,7 @@ This is a simple page
 ## Introduction
 
 Adding Introduction text
-Now doing rebasing which i dunno what it means
+Now doing rebasing which i dunno what it means, more changes from myfeature branch 2
 
 ## Purpose
 Adding Purpose text
