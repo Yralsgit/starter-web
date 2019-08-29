@@ -5,6 +5,7 @@ This is a simple page
 ## Introduction
 
 Adding Introduction text
+Now doing rebasing which i dunno what it means
 
 ## Purpose
 Adding Purpose text
