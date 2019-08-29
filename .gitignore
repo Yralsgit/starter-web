@@ -1,2 +1,3 @@
 Do not track always.txt
 log/
+*.orig
