@@ -1,6 +1,6 @@
 # Starter Web
 
-This is a simple page 
+This is a simple page. After stashing
 
 ## Introduction
 
